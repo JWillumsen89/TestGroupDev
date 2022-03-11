@@ -37,7 +37,7 @@ public class Test {
 
     new Test().hello2();
 
-    new Test().countFrom0To10();
+    new Test().countFrom0To15();
 
     System.out.println("Hello Basma");
     System.out.println("Hej Jonathan, Hej hej");
