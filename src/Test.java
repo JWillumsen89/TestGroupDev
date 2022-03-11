@@ -12,8 +12,8 @@ public class Test {
     System.out.println("hep hey!!");
   }
 
-  void countFrom0To10() {
-    for (int i = 1; i < 10; i++) {
+  void countFrom0To15() {
+    for (int i = 1; i < 15; i++) {
       System.out.println(i);
 
     }
@@ -37,7 +37,7 @@ public class Test {
 
     new Test().hello2();
 
-    new Test().countFrom0To10();
+    new Test().countFrom0To15();
 
     System.out.println("Hello Basma");
     System.out.println("Hej Jonathan, Hej hej");
