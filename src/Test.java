@@ -2,6 +2,7 @@ public class Test {
 
   void hello() {
     heyYou();
+    whatSUp();
     answerWhatsUp();
     System.out.println("Hey you");
   }
@@ -9,6 +10,10 @@ public class Test {
   void heyYou() {
     System.out.println("Hey there!!!");
     System.out.println("hep hey!!");
+  }
+
+  void whatSUp() {
+    System.out.println("Whats up?!");
   }
 
 
