@@ -2,12 +2,17 @@ public class Test {
 
   void hello() {
     heyYou();
+    whatSUp();
     System.out.println("Hey you");
   }
 
   void heyYou() {
     System.out.println("Hey there!!!");
     System.out.println("hep hey!!");
+  }
+
+  void whatSUp() {
+    System.out.println("Whats up?!");
   }
 
 
