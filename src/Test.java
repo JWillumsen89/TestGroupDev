@@ -2,6 +2,7 @@ public class Test {
 
   void hello() {
     heyYou();
+    answerWhatsUp();
     System.out.println("Hey you");
   }
 
@@ -13,6 +14,10 @@ public class Test {
 
   void hello2(){
     System.out.println("Hey you you");
+  }
+
+  void answerWhatsUp(){
+    System.out.println("not much, you?");
   }
   public static void main(String[] args) {
 
