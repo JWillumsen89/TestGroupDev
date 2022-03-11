@@ -12,6 +12,13 @@ public class Test {
     System.out.println("hep hey!!");
   }
 
+  void countToTen() {
+    for (int i = 0; i < 10; i++) {
+      System.out.println(i);
+
+    }
+  }
+
   void whatSUp() {
     System.out.println("Whats up?!");
   }
@@ -29,6 +36,8 @@ public class Test {
     new Test().hello();
 
     new Test().hello2();
+
+    new Test().countToTen();
 
     System.out.println("Hello Basma");
     System.out.println("Hej Jonathan, Hej hej");
