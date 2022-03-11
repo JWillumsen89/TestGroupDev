@@ -1,7 +1,12 @@
 public class Test {
 
   void hello() {
+    heyYou();
     System.out.println("Hey you");
+  }
+
+  void heyYou() {
+    System.out.println("Hey there!!!");
   }
 
 
