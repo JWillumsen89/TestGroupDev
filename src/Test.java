@@ -12,7 +12,7 @@ public class Test {
     System.out.println("hep hey!!");
   }
 
-  void countToTen() {
+  void countFrom0To10() {
     for (int i = 0; i < 10; i++) {
       System.out.println(i);
 
@@ -37,7 +37,7 @@ public class Test {
 
     new Test().hello2();
 
-    new Test().countToTen();
+    new Test().countFrom0To10();
 
     System.out.println("Hello Basma");
     System.out.println("Hej Jonathan, Hej hej");
