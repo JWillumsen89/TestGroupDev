@@ -13,7 +13,7 @@ public class Test {
   }
 
   void countFrom0To10() {
-    for (int i = 1; i < 10; i++) {
+    for (int i = 1; i < 20; i++) {
       System.out.println(i);
 
     }
